@@ -1,0 +1,3 @@
+include ':scrolltextlayout'
+include ':app'
+rootProject.name = "ScrollTextLayout"
